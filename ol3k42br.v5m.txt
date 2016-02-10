@@ -1,0 +1,75 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   .idea/workspace.xml
+#	new file:   node_modules/body-parser/HISTORY.md
+#	new file:   node_modules/body-parser/LICENSE
+#	new file:   node_modules/body-parser/README.md
+#	new file:   node_modules/body-parser/index.js
+#	new file:   node_modules/body-parser/lib/read.js
+#	new file:   node_modules/body-parser/lib/types/json.js
+#	new file:   node_modules/body-parser/lib/types/raw.js
+#	new file:   node_modules/body-parser/lib/types/text.js
+#	new file:   node_modules/body-parser/lib/types/urlencoded.js
+#	new file:   node_modules/body-parser/node_modules/qs/.eslintignore
+#	new file:   node_modules/body-parser/node_modules/qs/.npmignore
+#	new file:   node_modules/body-parser/node_modules/qs/.travis.yml
+#	new file:   node_modules/body-parser/node_modules/qs/CHANGELOG.md
+#	new file:   node_modules/body-parser/node_modules/qs/CONTRIBUTING.md
+#	new file:   node_modules/body-parser/node_modules/qs/LICENSE
+#	new file:   node_modules/body-parser/node_modules/qs/README.md
+#	new file:   node_modules/body-parser/node_modules/qs/bower.json
+#	new file:   node_modules/body-parser/node_modules/qs/component.json
+#	new file:   node_modules/body-parser/node_modules/qs/dist/qs.js
+#	new file:   node_modules/body-parser/node_modules/qs/lib/index.js
+#	new file:   node_modules/body-parser/node_modules/qs/lib/parse.js
+#	new file:   node_modules/body-parser/node_modules/qs/lib/stringify.js
+#	new file:   node_modules/body-parser/node_modules/qs/lib/utils.js
+#	new file:   node_modules/body-parser/node_modules/qs/package.json
+#	new file:   node_modules/body-parser/node_modules/qs/test/parse.js
+#	new file:   node_modules/body-parser/node_modules/qs/test/stringify.js
+#	new file:   node_modules/body-parser/node_modules/qs/test/utils.js
+#	new file:   node_modules/body-parser/package.json
+#	new file:   node_modules/bytes/History.md
+#	new file:   node_modules/bytes/LICENSE
+#	new file:   node_modules/bytes/Readme.md
+#	new file:   node_modules/bytes/index.js
+#	new file:   node_modules/bytes/package.json
+#	new file:   node_modules/iconv-lite/.npmignore
+#	new file:   node_modules/iconv-lite/.travis.yml
+#	new file:   node_modules/iconv-lite/Changelog.md
+#	new file:   node_modules/iconv-lite/LICENSE
+#	new file:   node_modules/iconv-lite/README.md
+#	new file:   node_modules/iconv-lite/encodings/dbcs-codec.js
+#	new file:   node_modules/iconv-lite/encodings/dbcs-data.js
+#	new file:   node_modules/iconv-lite/encodings/index.js
+#	new file:   node_modules/iconv-lite/encodings/internal.js
+#	new file:   node_modules/iconv-lite/encodings/sbcs-codec.js
+#	new file:   node_modules/iconv-lite/encodings/sbcs-data-generated.js
+#	new file:   node_modules/iconv-lite/encodings/sbcs-data.js
+#	new file:   node_modules/iconv-lite/encodings/tables/big5-added.json
+#	new file:   node_modules/iconv-lite/encodings/tables/cp936.json
+#	new file:   node_modules/iconv-lite/encodings/tables/cp949.json
+#	new file:   node_modules/iconv-lite/encodings/tables/cp950.json
+#	new file:   node_modules/iconv-lite/encodings/tables/eucjp.json
+#	new file:   node_modules/iconv-lite/encodings/tables/gb18030-ranges.json
+#	new file:   node_modules/iconv-lite/encodings/tables/gbk-added.json
+#	new file:   node_modules/iconv-lite/encodings/tables/shiftjis.json
+#	new file:   node_modules/iconv-lite/encodings/utf16.js
+#	new file:   node_modules/iconv-lite/encodings/utf7.js
+#	new file:   node_modules/iconv-lite/lib/bom-handling.js
+#	new file:   node_modules/iconv-lite/lib/extend-node.js
+#	new file:   node_modules/iconv-lite/lib/index.js
+#	new file:   node_modules/iconv-lite/lib/streams.js
+#	new file:   node_modules/iconv-lite/package.json
+#	new file:   node_modules/raw-body/HISTORY.md
+#	new file:   node_modules/raw-body/LICENSE
+#	new file:   node_modules/raw-body/README.md
+#	new file:   node_modules/raw-body/index.js
+#	new file:   node_modules/raw-body/package.json
+#	modified:   public/controllers/main.js
+#	modified:   server.js
+#
+

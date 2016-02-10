@@ -2,6 +2,12 @@ var express = require('express');
 var app = express();
 var mongojs = require('mongojs');
 var db = mongojs('contactlist',['contactlist']);
+var bodyParser = require('body-parser');
+// configure the app to use bodyParser()
+app.use(bodyParser.urlencoded({
+	extended: true
+}));
+app.use(bodyParser.json());
 
 app.use(express.static(__dirname + '/public'));
 
@@ -21,7 +27,10 @@ app.delete('/contactlist/:id', function(req, res){
 });
 
 app.post('/add_contact', function(req, res){
-	console.log("Contact has to be inserted", req.params)
+	console.log( req.params);
+	console.log( req.query);
+	console.log(req.body);
+	res.send("Yeeeeee");
 })
 
 app.get('/contactlist/:id', function(req, res){

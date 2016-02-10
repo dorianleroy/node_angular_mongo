@@ -29,9 +29,9 @@ var myApp = angular.module('listModule',[]).
 			console.log($scope.newPerson);
 			$http.post('/add_contact', $scope.newPerson).success(function(res){ console.log("Added"); })
 			return;
-			$scope.persons.push($scope.newPerson);
-			$scope.newPerson = {};
-			$scope.showAddingForm = false;
+//			$scope.persons.push($scope.newPerson);
+//			$scope.newPerson = {};
+//			$scope.showAddingForm = false;
 		};
 		$scope.removePerson = function(id){
 //			$scope.persons.splice($scope.persons.indexOf(this.person), 1);
